@@ -1,0 +1,7 @@
+path: C:/Users/jayak/Downloads/hackathon/RDD2022_India/India
+train: train/images
+val: train/annotations/txt
+test: test/images
+
+nc: 1
+names: ['Damage']
